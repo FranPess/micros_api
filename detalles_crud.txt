@@ -1,0 +1,12 @@
+Operación alta: 2024-02-08 15:33:59.636316 - Exito
+Operación alta: 2024-02-08 15:34:08.068641 - Exito
+Operación alta: 2024-02-08 15:35:02.556101 - Exito
+Operación alta: 2024-02-08 15:35:05.805639 - Exito
+Operación alta: 2024-02-08 15:35:23.044065 - Exito
+Operación editar: 2024-02-08 15:35:32.297118 - Exito
+Operación borrar: 2024-02-08 15:35:36.410383 - Exito
+Operación alta: 2024-02-09 18:51:28.924184 - Exito
+Operación alta: 2024-02-09 18:52:09.769679 - Exito
+Operación alta: 2024-02-09 18:52:45.993307 - Exito
+Operación borrar: 2024-02-09 18:53:18.195488 - Exito
+Operación editar: 2024-02-09 18:53:46.873274 - Exito

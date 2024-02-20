@@ -1,0 +1,4 @@
+Error en la conexion a la base de datos: Cierre del programa: 2024-02-08 12:54:49.343565
+Error en la conexion a la base de datos: unable to open database file: 2024-02-08 13:00:29.111676
+Error en la conexion a la base de datos: unable to open database file: 2024-02-08 13:17:42.809897
+Error en la conexion a la base de datos: unable to open database file: 2024-02-08 13:29:49.672651
